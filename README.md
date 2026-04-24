@@ -1,5 +1,7 @@
 Hi My Name is Ingrid Gama 
 
+Software Engineer with a background in REST APIs, microservices, and distributed systems at high scale. Passionate about clean code, security, and open-source.
+
 
 
 <picture align="center">
