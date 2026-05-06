@@ -1,7 +1,11 @@
-Hi My Name is Ingrid Gama 
+ Hi there 👋 My Name is Ingrid Gama 
 
 Software Engineer with a background in REST APIs, microservices, and distributed systems at high scale. Passionate about clean code, security, and open-source.
-
+Bitcoiner 
+> FOSS Open Source Enthusiast
+> Freedom and Sovereignty
+> Passion for Technologies, AI, Automation
+> Backend, Bitcoin, Blockchain
 
 
 <picture align="center">
