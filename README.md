@@ -5,9 +5,9 @@ Software Engineer with a background in REST APIs, microservices, and distributed
 Bitcoiner 
 
 FOSS Open Source Enthusiast <br>
-Freedom and Sovereignty
-Passion for Technologies, AI, Automation
-Backend, Bitcoin, Blockchain
+Freedom and Sovereignty <br>
+Passion for Technologies, AI, Automation <br>
+Backend, Bitcoin, Blockchain<br> 
 
 
 <picture align="center">
