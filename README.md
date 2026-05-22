@@ -11,7 +11,6 @@ Backend, Bitcoin, Blockchain<br>
 
 What I love: riding motorcycles, traveling, cars, camping
 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IngridGd/IngridGd/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IngridGd/IngridGd/output/github-contribution-grid-snake-dark.svg">
